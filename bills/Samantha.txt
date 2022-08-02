@@ -1,0 +1,7 @@
+Bill Breakdown: 
+Blouse:                   ...5.99 
+tongs:                    ...3.90 
+Hair:                     ...40.99 
+Lip gloss:                ...2.99 
+tip:                      ...2.00 
+total:                    ...55.87

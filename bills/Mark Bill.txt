@@ -1,0 +1,8 @@
+Bill Breakdown: 
+Pie:                      ...2.90 
+Chocoloate:               ...9.99 
+Apple:                    ...3.99 
+Oranges:                  ...5.99 
+Red wine non-alcohol:     ...15.99 
+tip:                      ...2.00 
+total:                    ...40.86
